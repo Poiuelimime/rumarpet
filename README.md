@@ -1,6 +1,9 @@
 # Rumarket Desktop
 ![logo](http://rumarket.rf.gd/img/rumarket.jpg)
 
+## Скачать
+
+<a href="https://github.com/Poiuelimime/rumarpet/releases/tag/rumarket" style="display: inline-block; background-color: #4CAF50; color: white; padding: 10px 20px; text-align: center; text-decoration: none; border-radius: 5px; font-weight: bold;">Скачать</a>
 
 ## Описание
 
